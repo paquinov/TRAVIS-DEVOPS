@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "travis-ci-devops",
+  "private_key_id": "7b0d6081440fead701fe9464184b81565fccd7e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRPNVxafALtRAm\n0GxSg+oVpNbeKbf8qqwFpgudpFRaBD1wtZrEJY+r4vFyheqDrKd+WmbAu4wzhXcf\ndk8o7w9zjhLKVm4R8UGsH4EmtwaxNIJRJ3ppbFCwixBwfj98MY1LvzNPn9fiCEF/\nl9UshwjNrJ6Ls5S4l3+z2uGNqocO3LEJ8zzcoIWOitp3fQ+F+PsbVdSlh5E1I9jq\n0QcWWqUiqaxJo13zNyKFD3zYovOQLb8Afx+80RyrPbP9gAowsO5A40QMCmff0EQK\nCNiEJnsj8zGzZUVNs+Y6U4kk70wgOkgH7fgbPGh0f3N+YzApHx7JEzqtZpruGDMg\n38PwUE0tAgMBAAECggEAHrVpdCBCsU0tJi0vwLqImA2d1XRVAvm/joKssMHF+YIm\nzExy/veuSuFfY1oBLbsgx/wXmZDNBmC/t3fjLVRMtb5zxouB0xNP+qWTDG4PRuG4\ngJWlMyTJAOggDQqSYbVaEfRpYPXKNuvURRgxGrxkz97WVBWSrbbacLieou6UrNr2\nFz8Y/XhMP9zuBKiZmy+O6hL/D38xQQjTK8GJ577s7FvIi0l5qH/4qGBpLQrD4orN\npm4umxAgBVLA76ejqXSOh6AFQiyzdvghtf6BHWJjq5j4sF4yNG0/QMfVaJc+vI7n\npq3txXd91hG+r25z1BBZevmVkoKr3yfpMvZ0NsAWtwKBgQDn54NSShxOa1qFUg0Y\nToA/KBkuK9c/ld9uNQqw4VhG6m91AKLa0E/8aq5jsJKvKhvEFQn2fWpKWJLB+UwT\nyo8xfny0fbOZBnmaZzpI6zUVbF8X07yAoKzNq573HBhjGegC6clZ5if873C+GDlu\nDkqir4durTIHS63uBQRKdn9ZawKBgQDm+mcS3cAe6cZQO7znWKgX9LrRIG1mrqKy\nQ2qMoMC3euS3doOHJIJ8PATw7bllg2wHNbgSO24IOG5V05aGLDX99lNtaqYhpRcI\npkZCvDVOFT9gb3BGcv6B94cX0ZheY/NTzqQKWTCY/ZHZXXTLGbGygZxIqioo8B/e\n2xyBJiEhxwKBgDHRo32HHEOgfmbLtLJ3Esf+lkI7+tbXHJOxY2WSU4OQk3cgNtwp\nCjXguSwDX8+vjR13o5dHZBEqrARtyPErf82TLbkck/uYz4DjEjteBB5hFKCqxQEh\nA15/svvFFlwb0aLmlHHypr6ItcCwtY22FkSSztZw8KFumaPbggt5H2yXAoGBAK71\nOaI2ylIgLhGUTnDG3PzYabIC6BuBaMey/UBse83/jsPRR6vUYeqM5AlDaM2WEPwd\nGsLktWIQrLLiRQB4+KTYMzWMNS8DCEGLAWmHerEcsxbvEpKqhFIaFwBZyRqmhygS\nPHuCN6eLWzDU86TsX4ehWapJCwpbaSi7vAmvwiT9AoGAVug+t5IgMwk1pUcGsRJU\nc3f5PINLmJhsM592l9LyTUb7CXFzU5dOriVId3W3p+duD9/l/c/VeedQ8vXGwjsZ\ncyz53vtXxXVtwhnmHXO0l49Ek8av6jIifnNBgWSzxsDS35ZBCOmf8Q/qnhNlSZHv\n1NkArsLNB1sqLvvuLOUUjlU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis-ci-aforo@travis-ci-devops.iam.gserviceaccount.com",
+  "client_id": "117106223727438374793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-ci-aforo%40travis-ci-devops.iam.gserviceaccount.com"
+}
